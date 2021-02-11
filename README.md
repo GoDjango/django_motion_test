@@ -1,6 +1,6 @@
 # django_motion_test
 
-##run:
+###run:
 
 _python manage.py migrate_
 
